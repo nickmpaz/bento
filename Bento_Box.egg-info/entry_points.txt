@@ -1,0 +1,3 @@
+[console_scripts]
+bento = src.__main__:main
+

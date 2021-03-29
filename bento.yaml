@@ -1,0 +1,13 @@
+modules:
+  vim:
+    link:
+      source: "test.txt"
+      dest: "test/"
+    bootstrap:
+      file: "bootstrap.sh"
+  zsh:
+    link:
+      source: "test.txt"
+      dest: "test/"
+    bootstrap:
+      file: "bootstrap.sh"
